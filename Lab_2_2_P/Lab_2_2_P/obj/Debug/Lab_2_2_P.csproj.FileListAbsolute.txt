@@ -1,0 +1,6 @@
+c:\users\olehk\documents\visual studio 2012\Projects\Lab_2_2_P\Lab_2_2_P\bin\Debug\Lab_2_2_P.exe.config
+c:\users\olehk\documents\visual studio 2012\Projects\Lab_2_2_P\Lab_2_2_P\obj\Debug\Lab_2_2_P.csprojResolveAssemblyReference.cache
+c:\users\olehk\documents\visual studio 2012\Projects\Lab_2_2_P\Lab_2_2_P\bin\Debug\Lab_2_2_P.exe
+c:\users\olehk\documents\visual studio 2012\Projects\Lab_2_2_P\Lab_2_2_P\bin\Debug\Lab_2_2_P.pdb
+c:\users\olehk\documents\visual studio 2012\Projects\Lab_2_2_P\Lab_2_2_P\obj\Debug\Lab_2_2_P.exe
+c:\users\olehk\documents\visual studio 2012\Projects\Lab_2_2_P\Lab_2_2_P\obj\Debug\Lab_2_2_P.pdb

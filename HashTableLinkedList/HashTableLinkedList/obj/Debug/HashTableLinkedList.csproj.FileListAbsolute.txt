@@ -1,0 +1,6 @@
+c:\users\olehk\documents\visual studio 2012\Projects\HashTableLinkedList\HashTableLinkedList\bin\Debug\HashTableLinkedList.exe.config
+c:\users\olehk\documents\visual studio 2012\Projects\HashTableLinkedList\HashTableLinkedList\bin\Debug\HashTableLinkedList.exe
+c:\users\olehk\documents\visual studio 2012\Projects\HashTableLinkedList\HashTableLinkedList\bin\Debug\HashTableLinkedList.pdb
+c:\users\olehk\documents\visual studio 2012\Projects\HashTableLinkedList\HashTableLinkedList\obj\Debug\HashTableLinkedList.csprojResolveAssemblyReference.cache
+c:\users\olehk\documents\visual studio 2012\Projects\HashTableLinkedList\HashTableLinkedList\obj\Debug\HashTableLinkedList.exe
+c:\users\olehk\documents\visual studio 2012\Projects\HashTableLinkedList\HashTableLinkedList\obj\Debug\HashTableLinkedList.pdb

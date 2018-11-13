@@ -1,0 +1,6 @@
+c:\users\olehk\documents\visual studio 2012\Projects\LAB4_ALTDST\LAB4_ALTDST\bin\Debug\LAB4_ALTDST.exe.config
+c:\users\olehk\documents\visual studio 2012\Projects\LAB4_ALTDST\LAB4_ALTDST\bin\Debug\LAB4_ALTDST.exe
+c:\users\olehk\documents\visual studio 2012\Projects\LAB4_ALTDST\LAB4_ALTDST\bin\Debug\LAB4_ALTDST.pdb
+c:\users\olehk\documents\visual studio 2012\Projects\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.csprojResolveAssemblyReference.cache
+c:\users\olehk\documents\visual studio 2012\Projects\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.exe
+c:\users\olehk\documents\visual studio 2012\Projects\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.pdb

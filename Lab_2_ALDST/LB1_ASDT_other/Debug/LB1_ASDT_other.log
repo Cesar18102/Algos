@@ -1,0 +1,20 @@
+﻿Build started 20.06.2018 12:09:48.
+     1>Project "C:\Users\olehk\Documents\Visual Studio 2012\Projects\Lab_2_ALDST\LB1_ASDT_other\LB1_ASDT_other.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\!!!OLEG\Software\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BalancedBinarySearchTree.cpp Source.cpp
+         Source.cpp
+         BalancedBinarySearchTree.cpp
+         Generating Code...
+     1>c:\users\olehk\documents\visual studio 2012\projects\lab_2_aldst\lb1_asdt_other\balancedbinarysearchtree.cpp(151): warning C4715: 'BalancedBinarySearchTree::commonAncestor_rec' : not all control paths return a value
+       Link:
+         E:\!!!OLEG\Software\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\olehk\Documents\Visual Studio 2012\Projects\Lab_2_ALDST\Debug\LB1_ASDT_other.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\olehk\Documents\Visual Studio 2012\Projects\Lab_2_ALDST\Debug\LB1_ASDT_other.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\olehk\Documents\Visual Studio 2012\Projects\Lab_2_ALDST\Debug\LB1_ASDT_other.lib" /MACHINE:X86 Debug\BalancedBinarySearchTree.obj
+         Debug\BinarySearchTree.obj
+         Debug\BinaryTree.obj
+         Debug\Source.obj
+     1>Source.obj : error LNK2019: unresolved external symbol "public: void __thiscall BalancedBinarySearchTree::insertBBST(class BalancedBinarySearchTree *)" (?insertBBST@BalancedBinarySearchTree@@QAEXPAV1@@Z) referenced in function _main
+     1>C:\Users\olehk\Documents\Visual Studio 2012\Projects\Lab_2_ALDST\Debug\LB1_ASDT_other.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Users\olehk\Documents\Visual Studio 2012\Projects\Lab_2_ALDST\LB1_ASDT_other\LB1_ASDT_other.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.19

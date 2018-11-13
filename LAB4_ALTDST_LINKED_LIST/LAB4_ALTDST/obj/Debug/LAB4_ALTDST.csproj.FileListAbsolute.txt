@@ -1,0 +1,23 @@
+c:\users\olehk\documents\visual studio 2012\Projects\LAB4_ALTDST\LAB4_ALTDST\bin\Debug\LAB4_ALTDST.exe.config
+c:\users\olehk\documents\visual studio 2012\Projects\LAB4_ALTDST\LAB4_ALTDST\bin\Debug\LAB4_ALTDST.exe
+c:\users\olehk\documents\visual studio 2012\Projects\LAB4_ALTDST\LAB4_ALTDST\bin\Debug\LAB4_ALTDST.pdb
+c:\users\olehk\documents\visual studio 2012\Projects\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.csprojResolveAssemblyReference.cache
+c:\users\olehk\documents\visual studio 2012\Projects\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.exe
+c:\users\olehk\documents\visual studio 2012\Projects\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.pdb
+C:\Users\DELL\Desktop\LAB4_ALTDST\LAB4_ALTDST\bin\Debug\LAB4_ALTDST.exe.config
+C:\Users\DELL\Desktop\LAB4_ALTDST\LAB4_ALTDST\bin\Debug\LAB4_ALTDST.exe
+C:\Users\DELL\Desktop\LAB4_ALTDST\LAB4_ALTDST\bin\Debug\LAB4_ALTDST.pdb
+C:\Users\DELL\Desktop\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.exe
+C:\Users\DELL\Desktop\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.pdb
+C:\Users\DELL\Desktop\OOP labs\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\OOP labs\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OOP labs\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.exe
+C:\Users\DELL\Desktop\OOP labs\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.pdb
+C:\Users\DELL\Desktop\OOP labs\LAB4_ALTDST\LAB4_ALTDST\bin\Debug\LAB4_ALTDST.exe.config
+C:\Users\DELL\Desktop\OOP labs\LAB4_ALTDST\LAB4_ALTDST\bin\Debug\LAB4_ALTDST.exe
+C:\Users\DELL\Desktop\OOP labs\LAB4_ALTDST\LAB4_ALTDST\bin\Debug\LAB4_ALTDST.pdb
+C:\Users\olehk\Desktop\LAB4_ALTDST\LAB4_ALTDST\bin\Debug\LAB4_ALTDST.exe.config
+C:\Users\olehk\Desktop\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.exe
+C:\Users\olehk\Desktop\LAB4_ALTDST\LAB4_ALTDST\obj\Debug\LAB4_ALTDST.pdb
